@@ -1,6 +1,6 @@
 cask "namespace" do
-  version "1.0"
-  sha256 "b7fdf24b47b997e57f469d93cf3e9af26004d318eb65a4d73bb9423aa0de8b83"
+  version "1.1"
+  sha256 "09b625811bbeb580e102089150c8be463ef5a3c96789ab106adff416c492c7eb"
 
   url "https://github.com/AduroIdea/NameSpace/releases/download/v#{version}/NameSpace-#{version}.dmg"
   name "NameSpace"
